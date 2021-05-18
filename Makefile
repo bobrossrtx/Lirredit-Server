@@ -20,8 +20,8 @@ clean:
 	rm -rf node_modules
 	rm -rf dist
 
-run: $(DIST)/$(ALLDIST)
+run: $(DISTDIR)/$(ALLDIST)
 	$(NODERUN)
 
-dev: $(DIST)/$(ALLDIST)
+dev: $(DISTDIR)/$(ALLDIST)
 	$(NODEDEV)
