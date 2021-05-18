@@ -1,0 +1,14 @@
+# File types
+*.env
+*.logger
+*.log
+
+# JavaScript/TypeScript
+node_modules
+dist
+
+# IDE
+.vscode
+
+# Exlusive
+!example.env
