@@ -2,6 +2,7 @@
 *.env
 *.logger
 *.log
+*.rdb
 
 # JavaScript/TypeScript
 node_modules
