@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "watch": "tsc -w",
+    "build": "tsc",
     "start": "node dist/index.js",
     "start:ts": "ts-node src/index.ts",
     "dev": "nodemon dist/index.js",
@@ -31,6 +32,7 @@
     "@mikro-orm/core": "^4.5.5",
     "@mikro-orm/migrations": "^4.5.5",
     "@mikro-orm/postgresql": "^4.5.5",
+    "@types/http-assert": "^1.5.1",
     "apollo-server-express": "^2.24.0",
     "argon2": "^0.27.2",
     "class-validator": "^0.13.1",
