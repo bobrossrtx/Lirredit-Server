@@ -37,7 +37,7 @@ const main = async () => {
   app.use(
     session({
       name: 'qid',
-      store: new RedisStore({ 
+      store: new RedisStore({
         client: redisClient,
         
       }),
