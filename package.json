@@ -30,7 +30,7 @@
   "dependencies": {
     "@mikro-orm/cli": "^4.5.5",
     "@mikro-orm/core": "^4.5.5",
-    "@mikro-orm/migrations": "^4.5.5",
+    "@mikro-orm/migrations": "^4.5.6",
     "@mikro-orm/postgresql": "^4.5.5",
     "@types/http-assert": "^1.5.1",
     "apollo-server-express": "^2.24.0",
