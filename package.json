@@ -34,7 +34,7 @@
     "@mikro-orm/postgresql": "^4.5.5",
     "@types/http-assert": "^1.5.1",
     "apollo-server-express": "^2.24.0",
-    "argon2": "^0.27.2",
+    "argon2": "^0.40.1",
     "class-validator": "^0.13.1",
     "connect-redis": "^5.2.0",
     "express": "^4.17.1",
